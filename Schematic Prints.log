@@ -1,0 +1,13 @@
+%%[ ProductName: Distiller ]%%
+GOSTTypeA not found, using Courier.
+GOST-2.304-81typeB not found, using Courier.
+%%[ Error: invalidfont; OffendingCommand: xshow ]%%
+
+Stack:
+[53 46 46 46 46 46 60 46 46 40 46 46 46 40 46 46 60 46 46 53 46 46 53
+46 60 46 46 40 43 40 46 46 46 46 46 46 46 0]
+( !"#)
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
